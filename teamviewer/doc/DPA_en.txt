@@ -1,0 +1,113 @@
+TeamViewer Data Processing Agreement (DPA)
+
+1. General
+
+For the data processing activities described in the respective Annex 1 of this agreement, where TeamViewer acts as the Customer’s Processor, the parties agree to the following provisions on the commissioned processing of personal data, which shall supplement the TeamViewer End User License Agreement (EULA) (Data Processing Agreement, “DPA“) until further notice.
+
+The DPA does not apply if the Customer is a natural person using the Software or the Services in the course of a purely personal or family activity (cf. Art. 2(2)(c) EU General Data Protection Regulation, “GDPR“).
+
+The provisions of this DPA and the EULA concluded at the same time complement each other and exist side by side. In the event of any contradictions in the area of data protection, the DPA shall take precedence over the provisions of the EULA.
+
+2. Rights and obligations of TeamViewer
+
+-   2.1. Compliance with applicable laws
+
+    The obligations of TeamViewer shall arise from this DPA and the applicable laws. The applicable laws shall in particular include the Federal Data Protection Act (“FDPA”) and the GDPR.
+
+-   2.2. Processing on instructions only
+
+    To the extent this DPA is applicable, TeamViewer shall only process personal data within the scope of this DPA and on documented instructions of the Customer, which are mutually agreed upon by the parties in the EULA and especially defined by the Product functionality, unless TeamViewer is required to do so by Union or the member state law to which TeamViewer is subject; in such a case TeamViewer shall inform the Customer of that legal requirement before processing, unless the respective law prohibits such information on important grounds of public interest. The Customer can give additional written instructions as far as this is necessary to comply with the applicable data protection law. The documentation on issued instructions shall be kept by the Customer for the term of the DPA.
+
+-   2.3. Obligation of confidentiality
+
+    TeamViewer shall ensure that the persons authorized to process the personal data have committed themselves to confidentiality unless they are subject to an appropriate legal obligation of secrecy.
+
+-   2.4. Security measures according to Art. 32 GDPR
+
+    -   2.4.1. Principle
+        TeamViewer will take the necessary measures for the security of the processing according to Article 32 GDPR (hereinafter referred to as “Security Measures”).
+    -   2.4.2. Scope
+        For the specific commissioned processing of personal data, a level of security appropriate to the risk to the rights and freedoms of the natural persons affected by the processing shall be guaranteed. To this end, the protection objectives of Art. 32 (1) GDPR, such as confidentiality, integrity and availability of systems and services and their resilience in terms of the nature, scope, as well as context of the processing shall be taken into account in such a way that the risks are mitigated permanently by appropriate Security Measures.
+    -   2.4.3. Security Measures
+        The adopted Security Measures are described in detail in the documentation of the Security Measures, which is attached to this DPA as Annex 2.
+    -   2.4.4. Procedure for reviewing
+        The documentation of the security measures also describes the procedures for the regular review, assessment, and evaluation of the effectiveness of the then-current Security Measures.
+    -   2.4.5. Changes
+        The Security Measures are subject to technical progress and further development. TeamViewer shall be generally permitted to implement alternative appropriate measures. In doing so, the level of security may not fall below the level existing prior to this DPA on the basis of the Security Measures already implemented or to be implemented.
+
+-   2.5. Assistance with safeguarding the rights of data subjects
+
+    TeamViewer shall, taking into account the nature of the processing, assist the Customer as far as this is possible by appropriate technical and organizational measures in the fulfillment of requests to exercise the rights of affected data subjects as referred in Chapter III of the GDPR. Should a data subject contact TeamViewer directly to exercise the data subject’s rights regarding the data processed on behalf of the Customer (as far as identifiable), TeamViewer shall immediately forward such request to the Customer. The Customer shall remunerate TeamViewer an hourly rate of 70 Euros for the effort resulting from such assistance, if and as far as permitted by applicable data protection laws.
+
+-   2.6. Assistance with ensuring compliance with Art. 32 – 36 GDPR
+
+    Taking into account the type of processing and the information available to TeamViewer, TeamViewer shall support the Customer with appropriate technical and organizational measures to comply with the obligations mentioned in Article 32-36 GDPR, especially with regard to the security of the processing, the notification of personal data breach, the data protection impact assessment as well as the consultation with supervisory authorities. The Customer shall remunerate TeamViewer an hourly rate of 70 Euros for the effort resulting from such assistance, if and as far as permitted by applicable data protection laws.
+
+-   2.7. Records of processing activities
+
+    TeamViewer will provide the Customer with the information necessary to maintain the records of processing activities.
+
+-   2.8. Deletion and return at the end of processing
+
+    At the choice of the Customer, TeamViewer shall delete or return the personal data that is processed on behalf of the Customer, if and to the extent that the law of the European Union or a member state to which TeamViewer is subject does not provide for an obligation to store the data.
+
+-   2.9. Information to demonstrate compliance with data protection obligations and inspections
+
+    TeamViewer shall provide the customer with all information necessary to demonstrate compliance with the obligations resulting from Sections 2 and 3 of this DPA. TeamViewer will also provide certificates of regular audits by recognized auditors or other qualified third parties, if required.
+
+    If and insofar there are objectively justified indications of a violation of this DPA or of data protection regulations by TeamViewer, TeamViewer will enable and contribute to additional audits, including inspections, which are carried out by the Customer or by a qualified auditor appointed by the Customer. When conducting the inspection, the Customer will not disrupt TeamViewer’s operations in a disproportionate manner.
+
+-   2.10. Obligation to notify in case of doubts about instructions
+
+    TeamViewer shall inform the Customer immediately if TeamViewer is of the opinion that the execution of an instruction could lead to a violation of the applicable data protection law. TeamViewer is entitled to suspend the execution of the relevant instruction until it is confirmed in writing or changed by the Customer after the review.
+
+-   2.11. Obligation to notify breaches
+
+    If TeamViewer detects violations of the applicable data protection law, this DPA, or instructions of the Customer regarding the commissioned processing of personal data, TeamViewer shall inform the Customer immediately.
+
+-   2.12. Appointment of a data protection officer
+
+    TeamViewer has appointed Ms. Hauser as external data protection officer, who can be reached at privacy@teamviewer.com, or at TeamViewer Germany GmbH, for the attention of the Data Protection Officer, Bahnhofsplatz 2, 73033 Göppingen, Deutschland.
+
+-   2.13. Data transfers to a third country
+
+    TeamViewer will generally only transfer personal data processed within the scope of this DPA to a country outside the EU or the European Economic Area (EEA) for which no adequacy decision of the EU Commission in the sense of Art. 45 para. 3 GDPR exists (“unsafe third country”), provided that:
+
+    -   a. the Customer or the Customer’s user gives TeamViewer instructions for such a transfer, e.g., by requesting TeamViewer to establish a connection to an endpoint located in an unsafe third country (in such cases the Customer is responsible for ensuring that the data transfer is carried out in accordance with Art. 44 et seq. GDPR), or
+    -   b. TeamViewer is obliged to do so according to the law of the European Union or a member state to which TeamViewer is subject; in such a case TeamViewer will inform the Customer about these legal requirements prior to processing, unless the respective law prohibits such a communication on important grounds of public interest.
+
+    Furthermore, TeamViewer shall be entitled to utilize Subprocessors in a third country to process personal data, insofar the requirements of Art. 44 GDPR are met.
+
+3. Subprocessors
+
+-   3.1. Subprocessors engaged upon conclusion of the DPA
+
+    TeamViewer utilizes the services of a number of another processors (hereinafter, “Subprocessors”). The list of Subprocessors used by TeamViewer for each of the TeamViewer products can be found under the following link as Annex 3. By concluding the DPA, the Customer agrees to the engagement of the Subprocessors that are included in Annex 3 at the time of concluding the DPA for the relevant TeamViewer Product.
+
+-   3.2. Notification regarding further Subprocessors
+
+    If TeamViewer wishes to commission further or other Subprocessors to provide the contractually agreed services (e.g., hosting), such Subprocessors have to be selected with the required care and due diligence. TeamViewer shall notify the Customer at least 15 days in advance about the appointment of any new Subprocessors. The Customer has the right to object to the engagement of the Subprocessor by stating objectively comprehensible reasons. If no objection is raised within this period, the new Subprocessor notified accordingly shall be deemed approved. If, in the event of an objection within the deadline, no solution can be reached, either party is entitled to terminate the DPA with a notice period of two (2) weeks. When the termination of the DPA becomes effective, the EULA shall also be considered terminated. Reference is made to section B.5.5 (Consequences of termination) of the EULA.
+
+-   3.3. Subprocessors in third countries
+
+    Subprocessors in third countries may only be engaged if the special requirements of Art. 44 et seq. GDPR are fulfilled.
+
+-   3.4. Obligations of Subprocessors
+
+    -   3.4.1. Structuring Contracts According to the Requirements of the DPA
+        TeamViewer shall structure the contracts with Subprocessors in a way that they comply with the requirements of the applicable data protection laws and this DPA.
+    -   3.4.2. Engagement of additional or different Subprocessors
+        TeamViewer shall oblige the Subprocessors not to commission additional or different Subprocessors with the processing of personal data without observing the provisions of section 3.2 towards TeamViewer.
+    -   3.4.3. Subprocessor guarantees
+        TeamViewer shall contractually impose obligations on the Subprocessors providing sufficient guarantees that the appropriate technical and organizational measures will be implemented in such a way that the processing is carried out in accordance with the requirements of the GDPR and this DPA.
+
+4. Changes to this DPA
+
+TeamViewer is generally entitled to amend the provisions of this DPA. TeamViewer will inform the Customer about the planned change and the content of the new DPA at least twenty-eight (28) days before such changes become effective. The change is considered approved if the Customer does not object to TeamViewer within fifteen (15) days after receipt of this information. If the Customer objects to the change, the DPA continues under the existing conditions.
+
+5. Liability
+
+Reference is made to Art. 82 of the GDPR.
+For the rest, it is agreed that the regulations on limitation of liability from the corresponding license agreement shall apply.
+
+Version as of January 1st, 2021.
