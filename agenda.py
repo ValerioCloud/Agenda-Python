@@ -17,8 +17,7 @@ def menu():
 
 
   =====================================================================================================================
-  ESCOLHA UMA OPÇÃO ACIMA: 
-  ''')
+  ESCOLHA UMA OPÇÃO ACIMA:   ''')
       if opcao =="1":
           cadastrarContato()
       elif opcao =="2":
