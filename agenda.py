@@ -28,22 +28,22 @@ def menu():
           buscarContato()
       else:
        sair()
-      voltarMenuPrincipal=input("Deseja voltar ao menu principal ? (s/n) ").lower()    
+      voltarMenuPrincipal=input("DESEJA VOLTAR AO MENU PRINCIPAL ? (S/N) ").lower()    
 
 
 def cadastrarContato():
-  idContato = input("Escolha o Id do Contato: ")
-  nome = input("Escreva o nome do Contato: ")
-  ramal = input("Escreva o ramal do Contato: ")
-  nucleo = input("Escreva o nucleo do Contato: ")
+  idContato = input("ESCOLHA O ID DO CONTATO: ")
+  nome = input("ESCREVA O NOME DO CONTATO: ")
+  ramal = input("ESCREVA O RAMAL DO CONTATO: ")
+  nucleo = input("ESCREVA O NUCLEO DO CONTATO: ")
   try:
     agenda = open ("agenda.txt","a")
     dados = f'{idContato};{nome};{ramal};{nucleo} \n'
     agenda.write(dados)
     agenda.close()
-    print(f'Contato gravado com Sucesso !!!')
+    print(f'CONTATO GRAVADO COM SUCESSO !!!')
   except:
-    print("ERRO na gravação do Contato")
+    print("ERRO NA GRAVAÇÃO DO CONTAO")
 
 def listarContato():
      agenda = open ("agenda.txt","r")
@@ -52,7 +52,7 @@ def listarContato():
      agenda.close()  
 
 def deletarContato():
-    nomeDeletado = input("Digite o nome do usuário a ser Deletado:  ").lower()
+    nomeDeletado = input("DIGITE O NOME DO USUÁRIO A SER DELETADO:  ").lower()
     agenda = open("agenda.txt","r")
     aux = []
     aux2 = []
@@ -64,12 +64,12 @@ def deletarContato():
     agenda = open("agenda.txt", "w")
     for i in aux2:
       agenda.write(i)
-    print(f'Contato deletado com Sucesso')
+    print(f'CONTATO DELETADO COM SUCESSO')
     listarContato()
     
 
 def buscarContato():
-    nome = input (f'digite o nome a ser procurado: ').upper()
+    nome = input (f'DIGITE O NOME A SER PROCURADO: ').upper()
     agenda = open ("agenda.txt","r")
     for contato in agenda:
       if nome in contato.split (";")[1].upper():
