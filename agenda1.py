@@ -74,11 +74,7 @@ def buscarContato():
     for contato in agenda:
       if nome in contato.split (";")[1].upper():
        print (contato)
-       break
-    else:
-      print(f'Nome: {nome} não encontrado')
     agenda.close()
-     
 
 def sair():
   print (f'Até mais.... !!!')
