@@ -13,19 +13,20 @@ def menu():
   [3]DELETAR CONTATO
   [4]BUSCAR CONTATO PELO NOME
   [5]SAIR
-
-
+  [6]Listar em ordem alfabética
 
   =====================================================================================================================
   ESCOLHA UMA OPÇÃO ACIMA:   ''')
       if opcao =="1":
           cadastrarContato()
       elif opcao =="2":
-          listarContato()
+          listarContato()          
       elif opcao =="3":
           deletarContato()
       elif opcao =="4":
           buscarContato()
+            
+      
       else:
        sair()
       voltarMenuPrincipal=input("DESEJA VOLTAR AO MENU PRINCIPAL ? (S/N) ").lower()    
@@ -46,9 +47,10 @@ def cadastrarContato():
     print("ERRO NA GRAVAÇÃO DO CONTAO")
 
 def listarContato():
-     agenda = open ("agenda.txt","r")
+     agenda = open ("agenda.txt","r")     
      for contato in agenda:
-       print(contato)
+      agenda
+      print(contato)
      agenda.close()  
 
 def deletarContato():
@@ -66,7 +68,8 @@ def deletarContato():
       agenda.write(i)
     print(f'CONTATO DELETADO COM SUCESSO')
     listarContato()
-    
+
+  
 
 def buscarContato():
     nome = input (f'DIGITE O NOME A SER PROCURADO: ').upper()
@@ -78,13 +81,11 @@ def buscarContato():
     else:
       print(f'Nome: {nome} não encontrado')
     agenda.close()
-     
 
+    
 def sair():
   print (f'Até mais.... !!!')
 
-
-    
 
 
 def main():

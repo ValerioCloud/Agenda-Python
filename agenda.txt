@@ -5,3 +5,5 @@
 09;Sandro;9977;crca 
 10;Mauricio;8585;Crca05 
 13;Lucio ;9899;Crca 
+14;Renato;8888;Crca 
+15;Ricardo;7744;Crca 
