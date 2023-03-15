@@ -13,7 +13,7 @@ def menu():
   [3]DELETAR CONTATO
   [4]BUSCAR CONTATO PELO NOME
   [5]SAIR
-  [6]Listar em ordem alfabética
+  
 
   =====================================================================================================================
   ESCOLHA UMA OPÇÃO ACIMA:   ''')
@@ -25,7 +25,7 @@ def menu():
           deletarContato()
       elif opcao =="4":
           buscarContato()
-            
+      
       
       else:
        sair()
